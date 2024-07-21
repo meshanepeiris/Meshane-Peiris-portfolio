@@ -4,21 +4,27 @@ function Projects() {
   return (
         <div class="flex m-5 space-x-4 justify-center">
             <div>
-                <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Flexify</h5>
-                <p class="font-normal text-gray-700 dark:text-gray-400">Fitness application built with Python that helps users track their fitness and nutrition goals.</p>
+                <a href="#" class="block max-w-sm p-6  border  rounded-lg shadow  bg-gray-800 border-gray-700 hover:bg-gray-700">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight  text-white">Flexify</h5>
+                <p class="font-normal  text-gray-400">Fitness application built with Python that helps users track their fitness and nutrition goals.</p>
+                <br></br>
+                <button type="button" class="  border  focus:outline-none focus:ring-4  font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 bg-gray-800 text-white border-gray-600 hover:bg-gray-700 hover:border-gray-600 focus:ring-gray-700">Flexify</button>
                 </a>
             </div>
             <div>
-                <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-                <p class="font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                <a href="#" class="block max-w-sm p-6 border  rounded-lg shadow bg-gray-800 border-gray-700 hover:bg-gray-700">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight  text-white">Social Sync AI</h5>
+                <p class="font-normal  text-gray-400">Generaive AI that helps users plan events around the world.</p>
+                <br></br>
+                <button type="button" class="  border  focus:outline-none focus:ring-4  font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 bg-gray-800 text-white border-gray-600 hover:bg-gray-700 hover:border-gray-600 focus:ring-gray-700">Social Sync AI</button>
                 </a>
             </div>
             <div>
-                <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-                <p class="font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                <a href="#" class="block max-w-sm p-6 border rounded-lg shadow  bg-gray-800 border-gray-700 hover:bg-gray-700">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight  text-white">2D RPG Game</h5>
+                <p class="font-normal  text-gray-400">Top-down view action adventure game in a two dimensional world.</p>
+                <br></br>
+                <button type="button" class="  border  focus:outline-none focus:ring-4  font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 bg-gray-800 text-white border-gray-600 hover:bg-gray-700 hover:border-gray-600 focus:ring-gray-700">2D Game</button>
                 </a>
             </div>
         </div> 
