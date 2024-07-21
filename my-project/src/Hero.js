@@ -1,16 +1,13 @@
 import './App.css';
-import misty from './misty.svg'
 
 function Hero() {
   return (
-    <div className="h-96 bg-red-100 grid grid-cols-2">
-        <div className = "text-8xl content-center">
-            Hi, I am Meshane
+    <section class="bg-center bg-cover bg-[url(hero.svg)] bg-no-repeat bg-gray-700 bg-blend-multiply">
+        <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
+            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Hi, my name is Meshane!</h1>
+            <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Welcome to my portfolio</p>
         </div>
-        <div className = "content-center">
-            <img className = "h-96" src={misty} alt="misty"/>
-        </div>
-    </div>
+    </section>
   );
 }
 

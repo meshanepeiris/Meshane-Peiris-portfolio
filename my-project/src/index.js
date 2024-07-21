@@ -4,7 +4,9 @@ import './index.css';
 
 import Header from './Header'
 import Hero from './Hero'
+import Projects from './Projects';
 import Footer from './Footer';
+import Section from './Section'
 
 import reportWebVitals from './reportWebVitals';
 
@@ -13,6 +15,8 @@ root.render(
   <React.StrictMode>
     <Header />
     <Hero />
+    <Section />
+    <Projects />
     <Footer />
   </React.StrictMode>
 );
