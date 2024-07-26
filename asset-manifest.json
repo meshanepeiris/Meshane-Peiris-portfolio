@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Meshane-Peiris-portfolio/static/css/main.3263a582.css",
-    "main.js": "/Meshane-Peiris-portfolio/static/js/main.ab8aabd1.js",
+    "main.css": "/Meshane-Peiris-portfolio/static/css/main.9e550c22.css",
+    "main.js": "/Meshane-Peiris-portfolio/static/js/main.d4aa810d.js",
     "static/js/453.0a36081d.chunk.js": "/Meshane-Peiris-portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/hero.svg": "/Meshane-Peiris-portfolio/static/media/hero.c7fb5bf3c60725257b84.svg",
     "static/media/misty.svg": "/Meshane-Peiris-portfolio/static/media/misty.f4d889a480b7097c662c.svg",
     "index.html": "/Meshane-Peiris-portfolio/index.html",
-    "main.3263a582.css.map": "/Meshane-Peiris-portfolio/static/css/main.3263a582.css.map",
-    "main.ab8aabd1.js.map": "/Meshane-Peiris-portfolio/static/js/main.ab8aabd1.js.map",
+    "main.9e550c22.css.map": "/Meshane-Peiris-portfolio/static/css/main.9e550c22.css.map",
+    "main.d4aa810d.js.map": "/Meshane-Peiris-portfolio/static/js/main.d4aa810d.js.map",
     "453.0a36081d.chunk.js.map": "/Meshane-Peiris-portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3263a582.css",
-    "static/js/main.ab8aabd1.js"
+    "static/css/main.9e550c22.css",
+    "static/js/main.d4aa810d.js"
   ]
 }
