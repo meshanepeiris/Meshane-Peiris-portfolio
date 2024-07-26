@@ -29,7 +29,7 @@ function Section() {
         </div>
     </div>
     <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 pr-[10vh] bg-[url(misty.svg)] bg-center bg-cover mr-[10vh]">
-        <img class="h-56 w-full object-cover object-top sm:h-72 md:h-96 lg:w-full lg:h-full" src="" alt=""></img>
+        
     </div>
     </div>
   );
