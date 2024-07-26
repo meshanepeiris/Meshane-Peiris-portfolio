@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Meshane-Peiris-portfolio/static/css/main.6cfa8552.css",
-    "main.js": "/Meshane-Peiris-portfolio/static/js/main.3b4aa9e2.js",
+    "main.js": "/Meshane-Peiris-portfolio/static/js/main.5a8401c4.js",
     "static/js/453.0a36081d.chunk.js": "/Meshane-Peiris-portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/hero.svg": "/Meshane-Peiris-portfolio/static/media/hero.c7fb5bf3c60725257b84.svg",
     "index.html": "/Meshane-Peiris-portfolio/index.html",
     "main.6cfa8552.css.map": "/Meshane-Peiris-portfolio/static/css/main.6cfa8552.css.map",
-    "main.3b4aa9e2.js.map": "/Meshane-Peiris-portfolio/static/js/main.3b4aa9e2.js.map",
+    "main.5a8401c4.js.map": "/Meshane-Peiris-portfolio/static/js/main.5a8401c4.js.map",
     "453.0a36081d.chunk.js.map": "/Meshane-Peiris-portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cfa8552.css",
-    "static/js/main.3b4aa9e2.js"
+    "static/js/main.5a8401c4.js"
   ]
 }
