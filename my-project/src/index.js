@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-import Header from './Header'
-import Hero from './Hero'
-import Projects from './Projects';
-import Footer from './Footer';
-import Section from './Section'
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
+import Section from './components/Section';
+import Experiences from './components/Experiences';
+import Education from './components/Education';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -16,6 +18,8 @@ root.render(
     <Header />
     <Hero />
     <Section />
+    <Education />
+    <Experiences />
     <Projects />
     <Footer />
   </React.StrictMode>
